@@ -1,0 +1,7 @@
+{
+  "prefix": "ProvGraph",
+  "paths": {
+    "ProvGraph": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}

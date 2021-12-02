@@ -1,0 +1,1 @@
+This is a modified version of [Sherlock](https://github.com/jun-zeng/Sherlock), which will be open-source once Sherlock is open-source.
