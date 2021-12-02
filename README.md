@@ -3,7 +3,7 @@
 This project builds a framework for provenance data summarization and visualization.
 
 ## Architecture
-![Architecture](https://github.com/yyyayo/mcomp_project_open/blob/main/Architecture.pdf?raw=true)
+![Architecture](https://github.com/yyyayo/mcomp_project_open/blob/main/Architecture.png?raw=true)
 
 ## Log Collector and Processer
 This part utilizes an [adapted Sherlock](https://github.com/yyyayo/mcomp_project_open/tree/main/Sherlock) to collect and process Linux audit logs and save the structured logs to the database.
